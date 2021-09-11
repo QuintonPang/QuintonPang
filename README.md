@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuintonPang
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Nodejs, Python, Java
+- 🌱 I’m currently learning Nodejs, Python, Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me INS:@quintonpyx
 
